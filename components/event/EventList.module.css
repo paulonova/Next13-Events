@@ -1,0 +1,12 @@
+.list {
+  width: 90%;
+  max-width: 40rem;
+  margin: 5rem auto;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
