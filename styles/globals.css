@@ -55,8 +55,9 @@ body {
   --size-20: 5rem;
   --size-40: 10rem;
 
-  background-color: var(--color-grey-500);
+  background-color: var(--color-primary-50);
   color: #252525;
+  margin: 0;
   font-family: 'Roboto', sans-serif;
 }
 
