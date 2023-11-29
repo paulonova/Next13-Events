@@ -81,4 +81,8 @@ p {
   color: var(--color-grey-800);
 }
 
+.center{
+  text-align: center;
+}
+
 

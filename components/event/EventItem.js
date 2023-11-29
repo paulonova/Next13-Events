@@ -30,7 +30,7 @@ function EventItem({ item }) {
           </div>
         </div>
         <div className={styles.actions}>
-          <Button link={item.id}>
+          <Button link={`/events/${item.id}`}>
             <span>Explore Event</span>
             <span className={styles.icon}>
               <ArrowRightIcon />
